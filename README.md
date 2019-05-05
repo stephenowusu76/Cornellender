@@ -8,6 +8,6 @@ Description:
 Requirements:
 1. For all layouts in view controllers, we have implemented AutoLayout using NSLayoutConstraints
 2. In the root navigation controller, a Collection View Controller and a Table View Controller. 
-   The collection 
+   The Collection View Controller displays the filters that categorized the events. Pressing on one of the 
 3. When the user click on the cell, a Modal View Controller will be pushed up 
   
