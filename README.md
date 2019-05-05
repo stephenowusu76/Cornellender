@@ -10,4 +10,8 @@ Requirements:
 2. In the root navigation controller, a Collection View Controller and a Table View Controller. 
    The Collection View Controller displays the filters that categorized the events. Pressing on one of the 
 3. When the user click on the cell, a Modal View Controller will be pushed up 
+
+Special features:
+1. A search bar is implemented, which allows users to directly search any event that they are interested in based on the keyword. Users can also use the search bar combined with a category filter.
+2. Within the event detailed view, a map is presented 
   
