@@ -7,7 +7,7 @@ Description:
 Backend:
 Requirements:
 //TODO
-
+(Please add the link of API to iOS Requirements point four! Thx in advance!)
 
   
 iOS:
@@ -16,6 +16,7 @@ Requirements:
 2. In the root navigation controller, a Collection View Controller and a Table View Controller. 
    The Collection View Controller displays the filters that categorized the events. Pressing on one of the filters will change    the event displayed in the Table View Controller. Only events under the categories selected will be displayed. 
 3. When the user click on the cell, a Modal View Controller will be pushed up to show detailed information about the event.
+4. Intergrated with backend API.
 
 Special features:
 1. A search bar is implemented, which allows users to directly search any event that they are interested in based on the          keyword. Users can also use the search bar combined with a category filter.
