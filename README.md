@@ -7,7 +7,6 @@ Description:
 Backend:
 Requirements:
 //TODO
-(Please add the link of API to iOS Requirements point four! Thx in advance!)
 
   
 iOS:
