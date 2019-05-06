@@ -6,7 +6,12 @@ Description:
   
 Backend:
 Requirements:
-//TODO
+1. Used SQLAlchemy to create a database which allows data to persist.
+2. Created several GET requests as well as POST requests to interact with the database created using SQLAlchemy. Also a DELETE request was implemented.
+3. Deployed the app to Google Cloud. This can be accessed through the following links.
+main page: http://34.74.152.70
+all events:http://34.74.152.70/events/
+4. Included picture links in my database to allow the IOS code be able to access the pictures for the specific events using information from my database. 
 
   
 iOS:
